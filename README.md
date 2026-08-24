@@ -35,19 +35,6 @@ This guide walks you through the exact requirements to obtain that TMG‑limited
 
 You must pass examinations in **9 subjects**, taken **before** the skill test (SFCL.145(c)) and under the authority of a single Member State's competent authority.
 
-**Common subjects (credit possible under SFCL.140):**
-1. Air law
-2. Human performance
-3. Meteorology
-4. Communications
-
-**Sailplane / TMG‑specific subjects:**
-5. Principles of flight
-6. Operational procedures
-7. Flight performance and planning
-8. Aircraft general knowledge
-9. Navigation
-
 **Examination rules (AMC1 SFCL.135):**
 - Approximately **120 multiple‑choice questions** total.
 - Pass mark: **75 %** per subject paper.
@@ -74,10 +61,6 @@ The course must be tailored to **TMG privileges**. Minimum requirements:
 | **Launches / take‑offs and landings** | **45** |
 | Solo cross‑country in a **TMG** | **≥ 150 km (80 NM)** with **1 full‑stop landing** at an aerodrome other than departure |
 
-### Credit for licensed pilots (SFCL.130(b))
-Holders of any pilot licence (except balloon pilot licences) may be credited:
-- **10 % of their PIC time**, up to a maximum of **7 hours**, toward the total instruction time (but this credit **never** counts toward the 2 hours supervised solo or the cross‑country requirement).
-- A maximum of **10** toward the 45 launches/take‑offs, reducing the minimum to **35 launches**.
 
 ---
 
