@@ -1,23 +1,24 @@
 # SPL with TMG Privileges only
-*A Generic EASA Part‑SFCL Guide (Regulation (EU) 2020/358)*
+*A Generic [EASA Part‑SFCL](https://www.easa.europa.eu/en/document-library/easy-access-rules/sailplane-rule-book-easy-access-rules) Guide (Regulation (EU) 2020/358)*
+
 
 ---
 
 ## Introduction: Is This Even Possible?
 
-Yes. Under EASA Part‑SFCL, a **Touring Motor Glider (TMG)** is legally treated as a sailplane for licensing purposes, unless otherwise specified.
+Under EASA Part‑SFCL, a **Touring Motor Glider (TMG)** is legally treated as a sailplane for licensing purposes, unless otherwise specified.
 
 > *"When requirements of Part-SFCL refer to 'sailplanes', this includes powered sailplanes as well as touring motor gliders (TMGs), unless otherwise specified."*  
 > — **GM1 SFCL.001 Scope**
 
-You can complete **all** of your SPL training (theoretical instruction, flight training, and skill test) on a TMG and be issued a valid Sailplane Pilot Licence.
+Thus, a student may complete **all** of the SPL training (theoretical instruction, flight training, and skill test) on a TMG and be issued a valid SPL.
 
 However, there is a critical limitation:
 
 > *"If the skill test as specified in point SFCL.145 has been completed in a TMG, the privileges of the SPL shall be limited to TMGs."*  
 > — **SFCL.150(d)**
 
-This guide walks you through the exact requirements to obtain that TMG‑limited SPL, based strictly on the text of Part‑SFCL.
+This guide walks you through the exact requirements to obtain that TMG‑limited SPL, based strictly on the text of [Part‑SFCL](https://www.easa.europa.eu/en/document-library/easy-access-rules/sailplane-rule-book-easy-access-rules).
 
 ---
 
@@ -25,9 +26,9 @@ This guide walks you through the exact requirements to obtain that TMG‑limited
 
 | Requirement | Detail | Reference |
 |-------------|--------|-----------|
-| Minimum age | **16 years** at licence issue (solo flights as student pilot permitted from age 14) | SFCL.120, SFCL.125 |
+| Minimum age | **16 years** at licence issue (solo flights permitted from age 14) | SFCL.120, SFCL.125 |
 | Medical certificate | Valid **Part‑MED Class 2 or LAPL medical certificate** | SFCL.115(c) |
-| Training organisation | Complete the course at an approved **ATO** or declared **DTO** | SFCL.130(a) |
+| Training organisation | Complete the course at an **ATO** or a **DTO** | SFCL.130(a) |
 
 ---
 
