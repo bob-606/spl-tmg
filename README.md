@@ -33,7 +33,7 @@ This guide walks you through the exact requirements to obtain a ***TMG‑limited
 
 ## 2. Theoretical Knowledge (SFCL.135)
 
-You must pass examinations in **9 subjects**, taken **before** the skill test (SFCL.145(c)) and under the authority of a single Member State's competent authority.
+You must pass the CAA exam(s) in **9 subjects**, taken **before** the skill test (SFCL.145(c)) and under the authority of a single Member State's competent authority.
 
 **Examination rules (AMC1 SFCL.135):**
 - An ATO/DTO recommendation is required and valid for **12 months**.
