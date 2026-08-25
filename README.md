@@ -26,7 +26,7 @@ This guide walks you through the exact requirements to obtain a ***TMG‑limited
 | Requirement | Detail | Reference |
 |-------------|--------|-----------|
 | Minimum age | **16 years** at licence issue (solo flights permitted from age 14) | SFCL.120, SFCL.125 |
-| Medical certificate | Valid **Part‑MED Class 2 or LAPL medical certificate** | SFCL.115(c) |
+| Medical certificate | Valid **Part‑MED Class 2** or **LAPL medical certificate** | SFCL.115(c) |
 | Training organisation | Complete the course at an **ATO** or a **DTO** | SFCL.130(a) |
 
 ---
