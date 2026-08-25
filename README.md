@@ -1,6 +1,5 @@
 # SPL with TMG Privileges only
-*A Generic [EASA Part‑SFCL](https://www.easa.europa.eu/en/document-library/easy-access-rules/sailplane-rule-book-easy-access-rules) Guide (Regulation (EU) 2020/358)*
-
+*An edge case based on the [EASA Part‑SFCL](https://www.easa.europa.eu/en/document-library/easy-access-rules/sailplane-rule-book-easy-access-rules) (Regulation (EU) 2020/358)*
 
 ---
 
@@ -18,7 +17,7 @@ However, there is a critical limitation:
 > *"If the skill test as specified in point SFCL.145 has been completed in a TMG, the privileges of the SPL shall be limited to TMGs."*  
 > — **SFCL.150(d)**
 
-This guide walks you through the exact requirements to obtain that TMG‑limited SPL, based strictly on the text of [Part‑SFCL](https://www.easa.europa.eu/en/document-library/easy-access-rules/sailplane-rule-book-easy-access-rules).
+This guide walks you through the exact requirements to obtain that ***TMG‑limited SPL***, based strictly on the text of [Part‑SFCL](https://www.easa.europa.eu/en/document-library/easy-access-rules/sailplane-rule-book-easy-access-rules).
 
 ---
 
@@ -37,12 +36,12 @@ This guide walks you through the exact requirements to obtain that TMG‑limited
 You must pass examinations in **9 subjects**, taken **before** the skill test (SFCL.145(c)) and under the authority of a single Member State's competent authority.
 
 **Examination rules (AMC1 SFCL.135):**
-- Approximately **120 multiple‑choice questions** total.
-- Pass mark: **75 %** per subject paper.
-- Must pass **all papers within 18 months** of the first attempt.
-- Maximum **4 attempts** per subject; failure on the 4th attempt requires retaking the entire set after further training.
-- Exam results are valid for **24 months** for the skill test and licence application.
 - An ATO/DTO recommendation is required and valid for **12 months**.
+- Approximately **120 MCQs**.
+- Pass mark: **75 %** 
+- Must pass **all sbjects within 18 months** of the first attempt.
+- Maximum **4 attempts** per subject; failure on the 4th attempt will result in a complete retake for all subjects.
+- Successful cxam results are valid for **24 months** for the skill test and licence application.
 
 **Credits:** Holders of a Part‑FCL or Part‑BFCL licence (or who have passed the exams for one, within the validity period) are credited for the 4 common subjects (**SFCL.140**).
 
@@ -69,7 +68,7 @@ The course must be tailored to **TMG privileges**. Minimum requirements:
 
 Many Member States require a **radio telephony qualification** (e.g., FCL.055 or equivalent national requirement) before exercising privileges that involve radio communication.
 
-Check with your competent authority for the specific examination and application procedure in your State. This is typically a separate national examination.
+Check with your competent authority for the specific examination and application procedure in your State.
 
 ---
 
