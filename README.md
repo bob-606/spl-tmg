@@ -59,7 +59,7 @@ The course must be tailored to **TMG privileges**. Minimum requirements:
 | …of which **dual in TMG** | **4 hours** |
 | Supervised solo flight time | **2 hours** |
 | **Launches / take‑offs and landings** | **45** |
-| Solo cross‑country in a **TMG** | **≥ 150 km (80 NM)** with **1 full‑stop landing** at an aerodrome other than departure |
+| Solo cross‑country in a **TMG** | **≥ 150 km (80 NM)** + **1 full‑stop landing (@ another site)** |
 
 ---
 
