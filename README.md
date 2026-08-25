@@ -3,7 +3,7 @@
 
 ---
 
-## Intro: Is This Even Possible? 🤔🤔🤔
+## Intro: Is This Even Possible? 🤔
 
 Under the [EASA Part‑SFCL](https://www.easa.europa.eu/en/document-library/easy-access-rules/sailplane-rule-book-easy-access-rules), a **Touring Motor Glider (TMG)** is legally ***treated as a sailplane*** for licensing purposes, unless otherwise specified.
 
