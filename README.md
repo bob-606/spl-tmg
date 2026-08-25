@@ -5,7 +5,7 @@
 
 ## Introduction: Is This Even Possible?
 
-Under EASA Part‑SFCL, a **Touring Motor Glider (TMG)** is legally treated as a sailplane for licensing purposes, unless otherwise specified.
+Under the [EASA Part‑SFCL](https://www.easa.europa.eu/en/document-library/easy-access-rules/sailplane-rule-book-easy-access-rules), a **Touring Motor Glider (TMG)** is legally treated as a sailplane for licensing purposes, unless otherwise specified.
 
 > *"When requirements of Part-SFCL refer to 'sailplanes', this includes powered sailplanes as well as touring motor gliders (TMGs), unless otherwise specified."*  
 > — **GM1 SFCL.001 Scope**
@@ -17,7 +17,7 @@ However, there is a critical limitation:
 > *"If the skill test as specified in point SFCL.145 has been completed in a TMG, the privileges of the SPL shall be limited to TMGs."*  
 > — **SFCL.150(d)**
 
-This guide walks you through the exact requirements to obtain a ***TMG‑limited SPL***, based strictly on the text of [Part‑SFCL](https://www.easa.europa.eu/en/document-library/easy-access-rules/sailplane-rule-book-easy-access-rules).
+This guide walks you through the exact requirements to obtain a ***TMG‑limited SPL***, based strictly on the text of the [EASA Part‑SFCL](https://www.easa.europa.eu/en/document-library/easy-access-rules/sailplane-rule-book-easy-access-rules).
 
 ---
 
@@ -61,7 +61,6 @@ The course must be tailored to **TMG privileges**. Minimum requirements:
 | **Launches / take‑offs and landings** | **45** |
 | Solo cross‑country in a **TMG** | **≥ 150 km (80 NM)** with **1 full‑stop landing** at an aerodrome other than departure |
 
-
 ---
 
 ## 4. Radio Telephony Qualification (if required by national law)
@@ -86,6 +85,8 @@ Test content per **AMC1 SFCL.145(d)(2)** :
 | **3. En‑route procedures** | Dead reckoning & map reading, maintaining altitude/heading/speed, orientation, ETAs & log keeping, diversion planning, fuel/engine management, ATC liaison. |
 | **4. Approach & landing** | Arrival procedures, look‑out, short‑field & crosswind landing, flapless landing, idle‑power approach, touch‑and‑go, go‑around from low height, actions after flight. |
 | **5. Abnormal & emergency procedures** | Simulated engine failure after take‑off, forced landing, precautionary landing, simulated emergencies, oral questions. |
+
+**Some of the skill test components may be combined, at the discretion of the FE.*
 
 **Additional notes:**
 - Navigation leg must be at least **30 minutes** with ≥ 2 waypoints (may be flown separately by agreement).
