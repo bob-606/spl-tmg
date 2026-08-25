@@ -1,11 +1,11 @@
 # SPL with TMG Privileges only
-*An edge case based on the [EASA Part‑SFCL](https://www.easa.europa.eu/en/document-library/easy-access-rules/sailplane-rule-book-easy-access-rules) 
+*An edge case based on the [EASA Part‑SFCL](https://www.easa.europa.eu/en/document-library/easy-access-rules/sailplane-rule-book-easy-access-rules)*
 
 ---
 
 ## Intro: Is This Even Possible? 🤔
 
-Under the [EASA Part‑SFCL](https://www.easa.europa.eu/en/document-library/easy-access-rules/sailplane-rule-book-easy-access-rules), a **Touring Motor Glider (TMG)** is legally ***treated as a sailplane*** for licensing purposes, unless otherwise specified.
+Under the [EASA Part‑SFCL](https://www.easa.europa.eu/en/document-library/easy-access-rules/sailplane-rule-book-easy-access-rules), a **Touring Motor Glider (TMG)** is legally **treated as a sailplane** for licensing purposes, unless otherwise specified.
 
 > *"When requirements of Part-SFCL refer to 'sailplanes', this includes powered sailplanes as well as touring motor gliders (TMGs), unless otherwise specified."*  
 > — **GM1 SFCL.001 Scope**
