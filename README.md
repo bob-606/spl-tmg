@@ -1,4 +1,4 @@
-# How to Obtain an SPL with TMG Privileges  
+# SPL with TMG Privileges only
 *A Generic EASA Part‑SFCL Guide (Regulation (EU) 2020/358)*
 
 ---
