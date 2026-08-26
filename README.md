@@ -47,8 +47,6 @@ You must pass the CAA exam(s) in **9 subjects**, taken **before** the skill test
 - Maximum **4 attempts** per subject; failure on the 4th attempt will result in a complete retake for all subjects.
 - Successful cxam results are valid for **24 months** for the skill test and licence application.
 
-**Credits:** Holders of a Part‑FCL or Part‑BFCL licence (or who have passed the exams for one, within the validity period) are credited for the 4 common subjects (**SFCL.140**).
-
 ---
 
 ## 3. Flight Training & Experience (SFCL.130(a)(2))
