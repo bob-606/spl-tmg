@@ -10,7 +10,7 @@ Under the [EASA Part‑SFCL](https://www.easa.europa.eu/en/document-library/easy
 > *"When requirements of Part-SFCL refer to 'sailplanes', this includes powered sailplanes as well as touring motor gliders (TMGs), unless otherwise specified."*  
 > — **GM1 SFCL.001 Scope**
 
-Thus, a student may complete all of the SPL training (theories, flights, and skill test) on a TMG and be issued a valid SPL.
+Thus, a student may complete the entire SPL training (theories, flights, and skill test) on a TMG.
 
 For example:
 > *"Applicants shall complete the skill test in... or a TMG..."*  
