@@ -13,7 +13,7 @@ Under the [EASA Part‑SFCL](https://www.easa.europa.eu/en/document-library/easy
 Thus, a student may complete all of the SPL training (theories, flights, and skill test) on a TMG and be issued a valid SPL.
 
 For example:
-> *"Applicants shall complete the skill test in... a TMG..."*  
+> *"Applicants shall complete the skill test in... or a TMG..."*  
 > — **SFCL.145(b)**
 
 However, there is a critical limitation:
