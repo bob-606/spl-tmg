@@ -41,8 +41,8 @@ You must pass the CAA exam(s) in **9 subjects**, taken **before** the skill test
 
 **Examination rules (AMC1 SFCL.135):**
 - An ATO/DTO recommendation is required and valid for **12 months**.
-- Approximately **120 MCQs**.
-- Pass mark: **75 %** 
+- Approximately **120 MCQs** in total.
+- Pass mark: **75%** for each subject. 
 - Must pass **all sbjects within 18 months** of the first attempt.
 - Maximum **4 attempts** per subject; failure on the 4th attempt will result in a complete retake for all subjects.
 - Successful cxam results are valid for **24 months** for the skill test and licence application.
