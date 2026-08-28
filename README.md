@@ -158,3 +158,7 @@ Training completion must be entered in your logbook and signed by the head of tr
 ---
 
 *Sources: EASA Easy Access Rules for Sailplanes (Nov 2022), Part‑SFCL points GM1 SFCL.001, SFCL.115, SFCL.130, SFCL.135, SFCL.140, SFCL.145, SFCL.150, SFCL.155, SFCL.160.*
+
+---
+APPENDIX – EXAMPLE CURRICULUM
+
