@@ -160,5 +160,118 @@ Training completion must be entered in your logbook and signed by the head of tr
 *Sources: EASA Easy Access Rules for Sailplanes (Nov 2022), Part‑SFCL points GM1 SFCL.001, SFCL.115, SFCL.130, SFCL.135, SFCL.140, SFCL.145, SFCL.150, SFCL.155, SFCL.160.*
 
 ---
-APPENDIX – EXAMPLE CURRICULUM
 
+# APPENDIX – TMG-ONLY SPL CURRICULUM (DTO)
+
+## 1. Minimum Training Requirements (SFCL.130)
+
+| Requirement | Minimum | Ref |
+|-------------|---------|-----|
+| Total flight instruction | 15 hrs | (i) |
+| Dual instruction | 10 hrs | (ii) |
+| ...of which on TMG | 6 hrs (incl. 4 hrs dual) | (iii) |
+| Supervised solo | 2 hrs | (iv) |
+| Launches / take‑offs & landings | 45 | (v) |
+| Solo cross‑country (TMG) | ≥150 km (80 NM) + 1 full‑stop landing away | (vi) |
+
+---
+
+## 2. Theoretical Knowledge Syllabus (AMC1 SFCL.130)
+
+**Examination (AMC1 SFCL.135):** 120 MCQs, 75% pass per subject, pass all within 18 months (valid 24 months), max 4 attempts/subject.
+
+| Subject | Core Topics |
+|---------|-------------|
+| **Air Law** | ICAO, national regs, airspace, ATS, flight plans, licensing, aerodromes, accident reporting |
+| **Human Performance** | Physiology, psychology, health, fatigue, oxygen, spatial disorientation |
+| **Meteorology** | Atmosphere, clouds, fronts, pressure, icing, thunderstorms, MET info, hazards |
+| **Communications** | VFR R/T, phraseology, uncontrolled/controlled fields, lost comms, distress/urgency |
+| **Principles of Flight** | Aerodynamics, stability, control, load factors, stalls, spins, spiral dive, speed polar |
+| **Operational Procedures** | Launch/landing, soaring, outlanding, emergency drills, parachute ops, TEM |
+| **Aircraft General (TMG)** | Airframe, systems (fuel/electrics/engine/propeller), instruments, rigging, maint., mass/balance |
+| **Flight Performance & Planning** | Polar, cruise, task setting, ICAO flight plan, re‑planning, fuel planning |
+| **Navigation** | DR, charts, compass, GNSS, VFR nav, position fixing, ATS liaison |
+
+---
+
+## 3. Flight Instruction Syllabus (AMC2 SFCL.130)
+
+**Pre‑Solo (must complete Ex. 1–12):**
+
+1. **Familiarisation** – Cockpit, controls (stick, pedals, flaps, airbrakes, engine), instruments, checklists.
+2. **Emergencies** – Parachute, bail‑out, PLF, system failure drills.
+3. **Prep for flight** – Briefing, docs, ground handling, walk‑around, mass/balance, harness, start & run‑up.
+4. **Air experience** – Area familiarisation, look‑out.
+5. **Effects of controls** – Attitude/speed, primary effects, flaps/airbrakes/UC.
+6. **Coordination** – Adverse yaw, aileron/rudder coordination, moderate banks.
+7. **Straight flight** – Pitch/trim, speed control, stability.
+8. **Turning** – Entry/exit, faults (slip/skid), headings, instrument use.
+9a. **Slow flight** – High AoA, recognition/recovery.
+9b. **Stalls** – Symptoms, recovery (straight/turning, wing‑drop, approach/landing config, accelerated).
+10. **Spins & spiral dives** – Recognition, recovery, differentiation.
+11c. **Self‑launch (TMG)** – Engine start/stop, pre‑take‑off, normal/crosswind T/O, power failure, abandoned T/O, in‑flight restart, decision‑making.
+12. **Circuit, approach & landing** – Rejoin, pre‑landing, wind effect, airbrakes/flaps, normal/crosswind, short field.
+
+**Post‑Solo (Ex. 13–17):**
+
+13. **First solo** – Briefing, local area, CG awareness, supervised flight.
+14. **Advanced turning** – Steep (45°+), unusual attitude recovery.
+15a. **Thermalling** – Detection, instruments, joining/centring/leaving, look‑out.
+15b. **Ridge** – Rules, path optimisation, speed, wind shear.
+15c. **Wave** – Access/exit, speed limits with altitude, oxygen.
+16. **Out‑landings** – Glide range, field selection, circuit/approach, post‑landing.
+17a. **Flight planning** – Weather, NOTAMs, maps, route, fuel, mass/balance, ICAO plan, alternates.
+17b. **In‑flight nav** – Track maintenance, re‑routing, R/T/ATC, position uncertainty, lost procedures, remote airfield join.
+17c. **XC techniques** – MacCready theory, final glide, optimal track, risk mitigation.
+
+---
+
+## 4. Solo Cross‑Country (SFCL.130(a)(2)(vi))
+
+- **≥150 km (80 NM)** TMG flight with **1 full‑stop landing** at a different site.
+- Pre‑flight: Weather, NOTAMs, route planning, ICAO FPL (if req.), mass/performance/balance checks.
+- Supervised by FI(S) – pre‑flight briefing + post‑flight debrief.
+
+---
+
+## 5. Skill Test (with FE(S) in TMG – AMC1 SFCL.145(d)(2))
+
+| Section | Content |
+|---------|---------|
+| **1. Pre‑flight & departure** | Docs, plan, WX/NOTAM, mass/balance, perf., inspection, start, taxi, T/O, ATC |
+| **2A. Powered airwork** | S&L (speed changes), climbs, 30° & 45° turns, slow flight, stalls (clean, approach, landing config) |
+| **2B. Unpowered airwork** | S&L, 30° turns, in‑flight engine stop/start, stall in turn |
+| **3. En‑route** | DR, map, heading/alt/speed, ETAs, diversion, fuel/engine mgmt, ATC |
+| **4. Approach & landing** | Arrival, short‑field, crosswind, flapless, idle‑power, touch‑and‑go, go‑around |
+| **5. Abnormal/emergency** | Engine failure after T/O, forced/precautionary landing, emergencies, oral Qs |
+
+**Tolerances:** Height ±150 ft; speed +15/−5 kt (T/O & approach), ±15 kt otherwise.
+**Pass/Fail:** Fail 1 section → retake that section; fail ≥2 → retake entire test; 2 failed attempts → further training required.
+
+---
+
+## 6. DTO Administration & Notes
+
+**Course Completion:**
+- Issue certificate signed by Head of Training.
+- Logbook entry signed.
+- Recommend for theoretical exam (valid 12 months) and skill test.
+- Verify valid Part‑MED Class 2 / LAPL medical before solo.
+
+**Records to Keep:**
+- Training record (dates, exercises, instructor signatures).
+- Logbook copies.
+- Course completion certificate copy.
+- Skill test report copy (FE(S) signed).
+
+**Critical DTO Operational Notes:**
+- **TMG definition**: Integrally mounted non‑retractable engine/propeller; capable of T/O/climb under own power.
+- **FI(S) privileges**: An FI(S) *without* TMG instructional privileges may teach pure gliding exercises in a TMG, but *must* sit in the PIC seat. TMG‑specific items (powered T/O, engine start/stop) require an FI(S) with TMG privileges (SFCL.315(a)(4)).
+- **Use of TMGs for pure sailplane training**: Max 8 hours, only pure gliding manoeuvres, if not seeking TMG privileges.
+- **Extension to pure sailplanes (SFCL.150(e))** : Additional 7 hrs instruction on non‑TMG sailplanes (3 hrs dual, 15 launches/landings, XC – 50 km solo or 100 km dual, may use TMG by derogation) + new skill test in pure sailplane.
+- **Post‑licence recency (TMG)** : 12 hrs (6 on TMG, 12 T/O/Ldg, 1 hr training flight) OR proficiency check within 24 months (SFCL.160(b)).
+- **Passenger currency**: 3 T/O/Ldg as PIC in preceding 90 days (SFCL.160(e)(2)).
+
+---
+
+*Based on EASA Easy Access Rules for Sailplanes (Nov 2022) – Part‑SFCL. Always verify current amendments.*
