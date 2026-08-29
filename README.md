@@ -1,5 +1,5 @@
 # SPL with TMG Privileges only
-*An edge case based on the [EASA Part‑SFCL](https://www.easa.europa.eu/en/document-library/easy-access-rules/sailplane-rule-book-easy-access-rules)*
+*An edge case based on the [EASA Part‑SFCL](https://www.easa.europa.eu/en/document-library/easy-access-rules/sailplane-rule-book-easy-access-rules).*
 
 ---
 
